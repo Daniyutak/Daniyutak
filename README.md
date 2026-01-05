@@ -1,7 +1,7 @@
 <pre>
   👩‍💻 I'm Daniela Yumi
     
-- 🔭 Information System Bachelor student @USP
+- 🔭 Information Systems Bachelor student @USP
 - 🌱 Currently learning software development and data analysis
 - 🌻 Developing software solutions as a way of learning
 - 🍰 Pronouns: she/he/they
