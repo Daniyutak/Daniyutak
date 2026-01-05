@@ -1,5 +1,6 @@
 <pre>
-### About Me:
+  👩‍💻 I'm Daniela Yumi
+    
 - 🔭 Information System Bachelor student @USP
 - 🌱 Currently learning software development and data analysis
 - 🌻 Developing software solutions as a way of learning
