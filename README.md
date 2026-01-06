@@ -18,9 +18,11 @@
 </pre>
 <!--- division -->
 
+<!--- 
 <p align="center">
   <img src="media/plants.gif" width="25%"  align="center"/>
 </p>
+-->
 
 <!---
 ## Skills
