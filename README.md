@@ -16,24 +16,36 @@
 - 🌻 Developing software solutions as a way of learning
 - 🍰 Pronouns: she/he/they
 </pre>
+
 <!--- division -->
 
-<!--- 
 <p align="center">
   <img src="media/plants.gif" width="25%"  align="center"/>
 </p>
--->
 
-<!---
 ## Skills
 
 ### Languages:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=3f48cc">
+  <img
+    alt="C"
+    src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+</picture>
+
+<!--- 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-05122A.svg??style=for-the-badge&logo=openjdk)
+</picture>
+ -->
 
 ### Tools:
 
 ## How to reach me:
 
--->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F78A4E&width=435&lines=Thanks+for+checking+my+profile!+)](https://git.io/typing-svg) 
 
