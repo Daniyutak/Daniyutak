@@ -59,7 +59,7 @@
     srcset="https://img.shields.io/badge/Java-05122A.svg??style=for-the-badge&logo=openjdk">
   <img
     alt="Java"
-    src="https://img.shields.io/badge/Java-23007396.svg??style=for-the-badge&logo=openjdk&logoColor=white">
+    src="https://img.shields.io/badge/Java-b30838.svg??style=for-the-badge&logo=openjdk&logoColor=white">
 </picture>
 
 <!--- 
