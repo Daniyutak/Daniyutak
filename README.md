@@ -55,6 +55,25 @@
 </picture>
 
 ### Applications
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
+  <img 
+  alt="HTML" 
+  src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+  <img 
+    alt="CSS"
+    src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+</picture>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -63,6 +82,44 @@
     alt="JavaScript"
     src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
+  <img 
+    alt="React"
+    src="https://img.shields.io/badge/-React-0081A3?logo=react&logoColor=white">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css">
+  <img 
+    alt="Tailwind"
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/Material%20UI-333333?style=flat&logo=mysql">
+  <img 
+    alt="Material UI"
+    src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=mysql">
+  <img 
+    alt="PostgreeSQL"
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+</picture>
+
+
 
 <!--- 
 ### Tools:
