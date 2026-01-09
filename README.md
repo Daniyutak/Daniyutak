@@ -44,14 +44,6 @@
     src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 </picture>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
-  <img
-    alt="JavaScript"
-    src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-</picture>
 
 <picture>
   <source
@@ -60,6 +52,16 @@
   <img
     alt="Java"
     src="https://img.shields.io/badge/Java-b30838.svg??style=for-the-badge&logo=openjdk&logoColor=white">
+</picture>
+
+### Applications
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img
+    alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 </picture>
 
 <!--- 
