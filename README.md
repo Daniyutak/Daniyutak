@@ -50,7 +50,7 @@
     srcset="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img
     alt="JavaScript"
-    src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+    src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 </picture>
 
 <picture>
