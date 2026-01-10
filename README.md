@@ -132,7 +132,25 @@
   </a>
 </picture>
 
+  <a href="https://www.figma.com">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/Figma-333333?style=flat&logo=figma">
+    <img 
+      alt="Notion"
+      src="https://img.shields.io/badge/Figma-262626?style=flat&logo=figma&logoColor=white">
+  </a>
 
+<a href="https://www.notion.com/pt/product">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/Notion-333333?style=flat&logo=notion">
+    <img 
+      alt="Notion"
+      src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+  </picture>
+</a>
 
 ## How to reach me:
 
