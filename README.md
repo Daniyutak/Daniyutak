@@ -23,6 +23,8 @@
   <img src="media/plants.gif" width="25%"/>
 </p>
 
+<!--- badges -->
+
 ## Skills
 
 ### Languages:
@@ -43,7 +45,6 @@
     alt="Python"
     src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 </picture>
-
 
 <picture>
   <source
@@ -119,9 +120,11 @@
     src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 </picture>
 
+<!-- data  --->
+
 ### Tools:
 
-<!-- aproveitar que as cores dos que eu quero transformar em botão são neutras pra tirar esse darkmode/lightmode --->
+<!-- aproveitar que as cores dos que eu quero transformar em botão são neutras pra tirar esse darkmode/lightmode caso nao adicione mais ferramentas--->
 
 <picture>
     <source
@@ -150,11 +153,10 @@
       src="https://img.shields.io/badge/Figma-262626?style=flat&logo=figma&logoColor=white">
 </picture>
 
-
-
+<!---
 
 ## How to reach me:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F78A4E&width=435&lines=Thanks+for+checking+my+profile!+)](https://git.io/typing-svg) 
-
+-->
