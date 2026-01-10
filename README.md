@@ -59,7 +59,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
+    srcset="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5">
   <img 
   alt="HTML" 
   src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -68,7 +68,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+    srcset="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img 
     alt="CSS"
     src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
@@ -86,7 +86,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
+    srcset="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
   <img 
     alt="React"
     src="https://img.shields.io/badge/-React-0081A3?logo=react&logoColor=white">
@@ -95,7 +95,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css">
+    srcset="https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css">
   <img 
     alt="Tailwind"
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
@@ -104,7 +104,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/Material%20UI-333333?style=flat&logo=mysql">
+    srcset="https://img.shields.io/badge/Material%20UI-05122A?style=flat&logo=mysql">
   <img 
     alt="Material UI"
     src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white">
@@ -113,7 +113,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=mysql">
+    srcset="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=mysql">
   <img 
     alt="PostgreeSQL"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
@@ -121,16 +121,35 @@
 
 ### Tools:
 
+<!-- aproveitar que as cores dos que eu quero transformar em botão são neutras pra tirar esse darkmode/lightmode --->
+
 <picture>
-  <a href="https://github.com/Daniyutak">
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/Github-333333?style=flat&logo=github">
+      srcset="https://img.shields.io/badge/Github-05122A?style=flat&logo=github">
     <img 
       alt="Github"
       src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
-  </a>
 </picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/Notion-05122A?style=flat&logo=notion">
+  <img 
+      alt="Notion"
+      src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=white">
+  <img 
+      alt="Figma"
+      src="https://img.shields.io/badge/Figma-262626?style=flat&logo=figma&logoColor=white">
+</picture>
+
 
 
 
