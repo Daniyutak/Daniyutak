@@ -69,10 +69,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/-CSS-151b23?style=flat&logo=CSS3&logoColor=1572B6">
+    srcset="https://img.shields.io/badge/-CSS-151b23?style=flat&logo=CSS&logoColor=1572B6">
   <img 
     alt="CSS"
-    src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css&logoColor=white">
 </picture>
 
 <picture>
@@ -152,6 +152,7 @@
       alt="Figma"
       src="https://img.shields.io/badge/Figma-262626?style=flat&logo=figma&logoColor=white">
 </picture>
+
 
 <!---
 
