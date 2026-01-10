@@ -54,7 +54,7 @@
     src="https://img.shields.io/badge/Java-b30838.svg??style=for-the-badge&logo=openjdk&logoColor=white">
 </picture>
 
-### Applications
+### Applications:
 
 <picture>
   <source
@@ -119,10 +119,20 @@
     src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 </picture>
 
-
-
-<!--- 
 ### Tools:
+
+<picture>
+  <a href="https://github.com/Daniyutak">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/Github-333333?style=flat&logo=github">
+    <img 
+      alt="Github"
+      src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+  </a>
+</picture>
+
+
 
 ## How to reach me:
 
