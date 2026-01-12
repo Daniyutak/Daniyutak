@@ -120,7 +120,53 @@
     src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 </picture>
 
-<!-- data  --->
+### Data:
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Numpy-151b23?&logo=NumPy">
+  <img 
+      alt="Numpy"
+      src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Pandas-151b23?style=flat&logo=pandas">
+  <img 
+      alt="Pandas"
+      src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Matplotlib-151b23?&logo=python">
+  <img 
+      alt="Matplotlib"
+      src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Seaborn-151b23?&logo=python">
+  <img 
+      alt="Seaborn"
+      src="https://img.shields.io/badge/-Seaborn-6478a6?style=flat&logo=python&logoColor=white">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Seaborn-151b23?&logo=python">
+  <img 
+      alt="Seaborn"
+      src="https://img.shields.io/badge/-Seaborn-6478a6?style=flat&logo=python&logoColor=white">
+</picture>
+
 
 ### Tools:
 
@@ -152,6 +198,9 @@
       alt="Figma"
       src="https://img.shields.io/badge/Figma-262626?style=flat&logo=figma&logoColor=white">
 </picture>
+
+
+
 
 
 <!---
