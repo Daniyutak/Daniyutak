@@ -17,10 +17,11 @@
 - 🍰 Pronouns: she/he/they
 </pre>
 
+<!--- contact info --->
 <div align=right>
   
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-dyumitakara@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dyumitakara@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dyumitakara@gmail.com-c5221f?style=flat&logo=Gmail&logoColor=white)](mailto:dyumitakara@gmail.com)
 [![GitHub followers count](https://img.shields.io/github/followers/Daniyutak?&label=followers)](https://github.com/Daniyutak)
 
 </div>
@@ -31,11 +32,12 @@
   <img src="media/plants.gif" width="25%"/>
 </p>
 
+
 <!--- badges -->
 
-## Skills
 
-### Languages and Libraries
+## Skills:
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -101,7 +103,7 @@
 </picture>
 
 
-### Applications:
+### Web dev:
 
 <picture>
   <source
@@ -206,7 +208,7 @@
       src="https://img.shields.io/badge/Visual%20Studio%20Code-151b23?style=flat">
 </picture>
 
----
+## 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F78A4E&width=435&lines=Thanks+for+checking+my+profile!+)](https://git.io/typing-svg) 
 
