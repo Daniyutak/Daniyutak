@@ -158,16 +158,6 @@
       src="https://img.shields.io/badge/-Seaborn-6478a6?style=flat&logo=python&logoColor=white">
 </picture>
 
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/-Seaborn-151b23?&logo=python">
-  <img 
-      alt="Seaborn"
-      src="https://img.shields.io/badge/-Seaborn-6478a6?style=flat&logo=python&logoColor=white">
-</picture>
-
-
 ### Tools:
 
 <!-- aproveitar que as cores dos que eu quero transformar em botão são neutras pra tirar esse darkmode/lightmode caso nao adicione mais ferramentas--->
