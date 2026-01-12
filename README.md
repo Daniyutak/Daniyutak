@@ -105,7 +105,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/Material%20UI-151b23?style=flat&logo=mysql">
+    srcset="https://img.shields.io/badge/Material%20UI-151b23?style=flat&logo=mui">
   <img 
     alt="Material UI"
     src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white">
