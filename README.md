@@ -17,6 +17,14 @@
 - 🍰 Pronouns: she/he/they
 </pre>
 
+<div align=right>
+  
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-dyumitakara@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dyumitakara@gmail.com)
+[![GitHub followers count](https://img.shields.io/github/followers/Daniyutak?&label=followers)](https://github.com/Daniyutak)
+
+</div>
+
 <!--- division -->
 
 <p align="center">
@@ -27,7 +35,7 @@
 
 ## Skills
 
-### Languages:
+### Languages and Libraries
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -54,6 +62,44 @@
     alt="Java"
     src="https://img.shields.io/badge/Java-b30838.svg??style=for-the-badge&logo=openjdk&logoColor=white">
 </picture>
+
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Numpy-151b23?&logo=NumPy">
+  <img 
+      alt="Numpy"
+      src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Pandas-151b23?style=flat&logo=pandas">
+  <img 
+      alt="Pandas"
+      src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Matplotlib-151b23?&logo=python">
+  <img 
+      alt="Matplotlib"
+      src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Seaborn-151b23?&logo=python">
+  <img 
+      alt="Seaborn"
+      src="https://img.shields.io/badge/-Seaborn-6478a6?style=flat&logo=python&logoColor=white">
+</picture>
+
 
 ### Applications:
 
@@ -120,44 +166,6 @@
     src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 </picture>
 
-### Data:
-
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/-Numpy-151b23?&logo=NumPy">
-  <img 
-      alt="Numpy"
-      src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy">
-</picture>
-
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/-Pandas-151b23?style=flat&logo=pandas">
-  <img 
-      alt="Pandas"
-      src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas">
-</picture>
-
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/-Matplotlib-151b23?&logo=python">
-  <img 
-      alt="Matplotlib"
-      src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white">
-</picture>
-
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/-Seaborn-151b23?&logo=python">
-  <img 
-      alt="Seaborn"
-      src="https://img.shields.io/badge/-Seaborn-6478a6?style=flat&logo=python&logoColor=white">
-</picture>
-
 ### Tools:
 
 <!-- aproveitar que as cores dos que eu quero transformar em botão são neutras pra tirar esse darkmode/lightmode caso nao adicione mais ferramentas--->
@@ -189,14 +197,19 @@
       src="https://img.shields.io/badge/Figma-262626?style=flat&logo=figma&logoColor=white">
 </picture>
 
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-151b23?style=flat">
+  <img 
+      alt="Visual Studio Code"
+      src="https://img.shields.io/badge/Visual%20Studio%20Code-151b23?style=flat">
+</picture>
 
-
-
-
-<!---
-
-## How to reach me:
-
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F78A4E&width=435&lines=Thanks+for+checking+my+profile!+)](https://git.io/typing-svg) 
--->
+
+
+
+
