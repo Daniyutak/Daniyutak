@@ -212,18 +212,22 @@
 
 <picture>
   <source
+      height="180px"
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?username=Daniyutak&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true">
   <img 
+      height="180px"
       alt="stats"
       src="https://github-readme-stats.vercel.app/api?username=Daniyutak&theme=buefy&show_icons=true&hide_border=true&count_private=true">
 </picture>
 
 <picture>
   <source
+      height="180px"
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyutak&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact">
   <img 
+      height="180px"
       alt="stats"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyutak&theme=buefy&show_icons=true&hide_border=true&layout=compact">
 </picture>
