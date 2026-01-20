@@ -210,6 +210,26 @@
 
 ## 
 
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Daniyutak&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true">
+  <img 
+      alt="stats"
+      src="https://github-readme-stats.vercel.app/api?username=Daniyutak&theme=buefy&show_icons=true&hide_border=true&count_private=true">
+</picture>
+
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyutak&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact">
+  <img 
+      alt="stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyutak&theme=buefy&show_icons=true&hide_border=true&layout=compact">
+</picture>
+
+##
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F78A4E&width=435&lines=Thanks+for+checking+my+profile!+)](https://git.io/typing-svg) 
 
 
