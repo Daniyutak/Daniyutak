@@ -20,7 +20,7 @@
 <!--- contact info --->
 <div align=right>
   
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/dani-takara)](www.linkedin.com/in/dani-takara)
 [![Gmail Badge](https://img.shields.io/badge/-dyumitakara@gmail.com-c5221f?style=flat&logo=Gmail&logoColor=white)](mailto:dyumitakara@gmail.com)
 [![GitHub followers count](https://img.shields.io/github/followers/Daniyutak?&label=followers)](https://github.com/Daniyutak)
 
