@@ -26,8 +26,11 @@
 
 </div>
 
-<!--- badges -->
+<!--- divisor  -->
 
+##
+
+<!--- badges --->
 
 ## Skills:
 
