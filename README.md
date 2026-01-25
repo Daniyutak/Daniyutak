@@ -26,13 +26,6 @@
 
 </div>
 
-<!--- division -->
-
-<p align="center">
-  <img src="media/plants.gif" width="25%"/>
-</p>
-
-
 <!--- badges -->
 
 
